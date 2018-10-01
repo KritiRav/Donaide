@@ -1,0 +1,16 @@
+/*.dropdown-menu-center {
+  left: 50% !important;
+  right: auto !important;
+  text-align: right !important;
+  transform: translate(0%, 50%) !important;
+}*/
+
+.dropdown-text-center {
+    position: relative;
+}
+.dropdown-menu {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    margin-left: -100px;
+}
